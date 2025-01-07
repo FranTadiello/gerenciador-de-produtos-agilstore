@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Caramelo",
+    "categoria": "Doce",
+    "quantidade": 3,
+    "preco": 3
+  },
+  {
+    "id": 2,
+    "nome": "Batata frita",
+    "categoria": "Salgadinho",
+    "quantidade": 5,
+    "preco": 6
+  }
+]
