@@ -1,5 +1,6 @@
 const readline = require('readline-sync');
 const addProduto  = require('./funcoes/addProduto');
+const listProdutos  = require('./funcoes/listProdutos');
 
 function menu() {
   console.log("\n=== Gerenciamento de Produtos - AgilStore ===");
@@ -17,6 +18,7 @@ function menu() {
       addProduto();
       break;
     case 2:
+      console.log("Chamando a função de listar produtos..."); 
       listProdutos();
       break;
     case 3:

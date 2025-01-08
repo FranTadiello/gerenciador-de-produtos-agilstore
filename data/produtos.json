@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto de Teste",
+    "categoria": "Teste",
+    "quantidade": 10,
+    "preco": 50
+  },
+  {
+    "id": 2,
+    "nome": "bolacha",
+    "categoria": "comida",
+    "quantidade": 8,
+    "preco": 7
+  },
+  {
+    "id": 3,
+    "nome": "miojo",
+    "categoria": "comida",
+    "quantidade": 9,
+    "preco": 3
+  },
+  {
+    "id": 4,
+    "nome": "pc",
+    "categoria": "eletro",
+    "quantidade": 8,
+    "preco": 5.55
+  },
+  {
+    "id": 5,
+    "nome": "mar",
+    "categoria": "liquido",
+    "quantidade": 8,
+    "preco": 9
+  },
+  {
+    "id": 6,
+    "nome": "camisa",
+    "categoria": "vestimenta",
+    "quantidade": 8,
+    "preco": 12
+  },
+  {
+    "id": 7,
+    "nome": "pao",
+    "categoria": "alimento",
+    "quantidade": 5,
+    "preco": 8
+  },
+  {
+    "id": 8,
+    "nome": "daf",
+    "categoria": "faf",
+    "quantidade": 5,
+    "preco": 2
+  },
+  {
+    "id": 9,
+    "nome": "lsls",
+    "categoria": "slls",
+    "quantidade": 5,
+    "preco": 4
+  },
+  {
+    "id": 10,
+    "nome": "�j�j",
+    "categoria": "j��j",
+    "quantidade": 5,
+    "preco": 4.86
+  }
+]
