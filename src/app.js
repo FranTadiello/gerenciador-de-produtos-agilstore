@@ -3,6 +3,7 @@ const addProduto  = require('./funcoes/addProduto');
 const listProdutos  = require('./funcoes/listProdutos');
 const updateProduto = require('./funcoes/updateProduto');
 const deleteProduto = require('./funcoes/deleteProduto');
+const searchProduto = require('./funcoes/searchProduto');
 
 function menu() {
   console.log("\n=== Gerenciamento de Produtos - AgilStore ===");
