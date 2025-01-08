@@ -70,7 +70,7 @@ O Gerenciador de Produtos - AgilStore é uma aplicação de terminal que permite
 
 ## Pessoas Desenvolvedoras do Projeto
 
-- **[Franciele Tafiello](https://github.com/FranTadiello)** 
+- **[Franciele Tadiello](https://github.com/FranTadiello)** 
 
 ---
 
