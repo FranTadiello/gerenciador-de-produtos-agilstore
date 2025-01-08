@@ -2,6 +2,7 @@ const readline = require('readline-sync');
 const addProduto  = require('./funcoes/addProduto');
 const listProdutos  = require('./funcoes/listProdutos');
 const updateProduto = require('./funcoes/updateProduto');
+const deleteProduto = require('./funcoes/deleteProduto');
 
 function menu() {
   console.log("\n=== Gerenciamento de Produtos - AgilStore ===");
