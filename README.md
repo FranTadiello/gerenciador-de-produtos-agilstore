@@ -1,23 +1,6 @@
 # Gerenciador de Produtos - AgilStore
 
-Este é um sistema simples de gerenciamento de produtos desenvolvido em Node.js. O projeto foi elaborado como parte da seleção para a Aceleradora Ágil - PUCRS. O objetivo é fornecer uma aplicação prática e funcional para gerenciamento de inventários da AgilStore, uma loja de eletrônicos que está em expansão.
-
 ## ![Tecnologias](https://img.shields.io/badge/Node.js-v16.0.0-brightgreen) ![Tecnologias](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Tecnologias](https://img.shields.io/badge/JSON-Data%20Storage-blue)
-
----
-
-## Índice
-
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Instruções para Rodar Localmente](#instruções-para-rodar-localmente)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-
----
-
-## Descrição do Projeto
-
 
 O Gerenciador de Produtos - AgilStore é uma aplicação de terminal que permite o gerenciamento de um inventário de produtos armazenados em um arquivo JSON. A aplicação foi projetada com foco na simplicidade e funcionalidade, proporcionando uma interface interativa para adicionar, listar, atualizar, buscar e excluir produtos.
 
